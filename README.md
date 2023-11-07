@@ -18,8 +18,8 @@ Use this gif as an example of how the app should work.
 Run this command to get the backend started:
 
 ```console
-$ json-server --watch db.json
-```
+$ 
+```json-server --watch db.json
 
 Test your server by visiting this route in the browser:
 
